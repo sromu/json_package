@@ -3,6 +3,7 @@
 	"author": "me",
 	"description": "does something",
 	"keywords": ["freecodecamp", "demo", "jsonpack"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
